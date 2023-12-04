@@ -19,10 +19,10 @@ public class ThymeleafProjectApplication implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-//        Estudiante estudiante1 = new Estudiante("Ignacio", "Perez", "naachoperez11@gmail.com");
+//        Estudiante estudiante1 = new Estudiante("Name1", "Lastname1", "email1@gmail.com");
 //        repositorio.save(estudiante1);
 //
-//        Estudiante estudiante2 = new Estudiante("Mateo", "Perez", "matuperez08@gmail.com");
+//        Estudiante estudiante2 = new Estudiante("Name2", "Lastname2", "email2@gmail.com");
 //        repositorio.save(estudiante2);
 
     }
